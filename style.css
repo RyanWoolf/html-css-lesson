@@ -1,0 +1,17 @@
+p {
+    color: #1e8cd5;
+}
+p:hover {
+    color: green;
+}
+.bold-red {
+    color: red;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.big {
+    font-size: 2rem;
+}
+#second-item {
+    padding-left: 2rem;
+}
